@@ -82,5 +82,6 @@ void triplet_multiply(int a[][3], int b[][3]){
 ```
 
 where the inputs are two triplets a[][3] and b[][3]; the output is computed in c[][3]. <br>
+Modify it according to your requirement. A star will be appreciated. <br>
 
-# Data Structure Tutorial: Sparse Matrix to Triplet Representation using C
+# Data Structure: Sparse Matrix to Triplet Representation using C
